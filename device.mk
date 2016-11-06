@@ -167,8 +167,8 @@ PRODUCT_PACKAGES += \
     libjni_livedisplay
 
 # Doze mode
-PRODUCT_PACKAGES += \
-    OneplusDoze
+#PRODUCT_PACKAGES += \
+#    OneplusDoze
 
 # Fingerprint sensor
 PRODUCT_PACKAGES += \
@@ -179,8 +179,8 @@ PRODUCT_PACKAGES += \
     fs_config_files
 
 # Gello
-PRODUCT_PACKAGES += \
-    Gello
+#PRODUCT_PACKAGES += \
+#    Gello
 
 # GPS
 PRODUCT_PACKAGES += \
